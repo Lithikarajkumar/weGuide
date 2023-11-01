@@ -18,4 +18,4 @@ HTML, CSS, JS
  *home.html - main page(main page of the website)*
 
 ## Sample images
-![Sample image 1](Screenshot 1.png)
+![Sample image 1](https://github.com/Lithikarajkumar/weguide/blob/b6c03a371bc562956ba946a65400763bb911f6c8/Screenshot%201.png)
