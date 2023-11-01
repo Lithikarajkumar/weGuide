@@ -14,5 +14,8 @@ for right study resource is a time consuming process.
 ## Technological stack used
 HTML, CSS, JS
 
+
+### home.html - main page
+
 ## Sample images
 
