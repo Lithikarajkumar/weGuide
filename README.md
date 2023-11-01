@@ -18,4 +18,4 @@ HTML, CSS, JS
  *home.html - main page(main page of the website)*
 
 ## Sample images
-
+![Sample image 1](Screenshot 1.png)
