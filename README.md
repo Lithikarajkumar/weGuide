@@ -15,7 +15,7 @@ for right study resource is a time consuming process.
 HTML, CSS, JS
 
 
-### home.html - main page
+ *home.html - main page(main page of the website)*
 
 ## Sample images
 
